@@ -19,11 +19,18 @@ Step 4	Group Policy	Enforce drive mappings, folder redirection, wallpaper, and s
 Make sure you have before Step 1
 
 □ Windows 11 Pro VM installed (not Home edition – Home can't join domains)
+
+
 □ VM network adapter set to the same virtual network as your DC (ex. NAT or Internal network in Hyper-V/VMware)
+
 □ DC is powered on and reachable
+
 □ DC's IP address written down (ex 192.168.1.10)
+
 □ Domain name written down (ex. yourdomain.local)
+
 □ Domain admin credentials (ex. YOURDOMAIN\Administrator)
+
 □ A test domain user credentials to verify login after join
 
 Step 1: Join Windows 11 Pro to the Domain
