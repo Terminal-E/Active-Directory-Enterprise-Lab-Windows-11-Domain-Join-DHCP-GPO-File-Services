@@ -50,6 +50,13 @@ Step 1: Join Windows 11 Pro to the Domain
  <img width="1918" height="1020" alt="dnstestresults 2" src="https://github.com/user-attachments/assets/361974be-0dad-47be-8d56-2fdf728649c1" />
 
 1.3 Join the Domain
+On your Windows 11 client, press Windows + R.
+
+Type sysdm.cpl and press Enter(easiest way)
+
+Click the Computer Name tab.
+
+Click the Change button.
 <img width="1916" height="1021" alt="joineddomain 2" src="https://github.com/user-attachments/assets/08f86c12-2e4f-48e9-aa05-b3150955485c" />
 <img width="1918" height="1022" alt="joineddomain 3" src="https://github.com/user-attachments/assets/758d37c5-5023-45e9-b2f0-ef745ba49c5d" />
 
