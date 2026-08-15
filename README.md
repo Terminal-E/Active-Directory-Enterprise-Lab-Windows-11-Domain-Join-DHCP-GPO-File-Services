@@ -70,6 +70,10 @@ Click the Change button.
 
 
 1.4 Log in as a Domain User
+<img width="1918" height="1022" alt="loginasuser 2" src="https://github.com/user-attachments/assets/30921728-a814-452c-8250-1d03d1b39f76" />
+
+<img width="1917" height="1015" alt="loginasuser 1" src="https://github.com/user-attachments/assets/8c392caf-6ed3-4526-bf5a-7714c346677e" />
+
 
 
 
