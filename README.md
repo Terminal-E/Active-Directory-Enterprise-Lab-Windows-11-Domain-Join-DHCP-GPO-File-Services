@@ -5,8 +5,6 @@ Complete Lab Structure
 
 
 
-Step 0	Active Directory Foundation	✅ Already completed – DC, OUs, users, security groups(Check my last Lab this step should be completed prior to moving forward!) GOTO LINE 16
-
 Step 1	Windows 11 Domain Join	Join Windows 11 Pro to your domain with proper DNS configuration
 
 Step 2	DHCP & NAT	Install/configure DHCP for automatic IP assignment + NAT for internet access
