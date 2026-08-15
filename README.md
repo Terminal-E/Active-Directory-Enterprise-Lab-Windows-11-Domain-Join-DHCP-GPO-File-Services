@@ -246,3 +246,85 @@ Select:
 Click OK → Close.
 
 
+
+2.6 Release and Renew IP Address
+
+
+Open Command Prompt as Administrator.
+
+Run:
+
+#ipconfig /release
+
+#ipconfig /renew
+
+#ipconfig /all
+
+#ping 8.8.8.8
+
+You should now see:
+
+IPv4 Address: 192.168.0.100 or similar (within your DHCP range)
+
+DHCP Enabled: Yes
+
+DHCP Server: 192.168.0.50
+
+DNS Servers: 192.168.0.50
+
+Connection-specific DNS Suffix: yourdomainip.local
+
+
+<img width="1915" height="1017" alt="releaseandrenewip 1" src="https://github.com/user-attachments/assets/f9a09d93-0cce-47bc-9136-ad9306b3daa5" />
+
+<img width="1918" height="1021" alt="ipconfig 2" src="https://github.com/user-attachments/assets/ccf6473a-0d27-4963-82ad-bc308c621a54" />
+
+
+
+Step 3: File Server Setup
+
+3.1 Install File Server Role on Your DC
+
+
+On your Windows Server 2019 DC, open Server Manager.
+
+Click Add roles and features.
+
+Click Next until you reach Server Roles.
+
+Check the box for File and Storage Services (it may already be installed by default).
+
+Expand it and make sure File Server is checked (it usually is).
+
+Click Next through the rest and click Install (if needed).
+
+Click Close when done.
+
+
+
+
+
+
+3.2 Create Folder Structure
+
+
+On your DC, open File Explorer.
+
+Navigate to the C: drive.
+
+Create a new folder called Shares.
+
+Inside Shares, create three subfolders:
+
+IT
+
+Sales
+
+HR
+
+
+
+
+
+
+
