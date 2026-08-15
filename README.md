@@ -81,6 +81,12 @@ Click the Change button.
 
 
 1.5 Verify Domain Join
+<img width="1918" height="1022" alt="verification 1" src="https://github.com/user-attachments/assets/5ade6453-bf39-4842-981d-da4da7d88cb9" />
+<img width="1918" height="1025" alt="verification 2" src="https://github.com/user-attachments/assets/b8a45e83-7d0b-48e5-8d44-8b1429b2d495" />
+
+
+
+
 
 
 
