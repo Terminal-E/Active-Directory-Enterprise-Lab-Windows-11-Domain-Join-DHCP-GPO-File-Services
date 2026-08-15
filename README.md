@@ -3,6 +3,8 @@ A Windows Server 2019 homelab project building on an existing Active Directory i
 
 Complete Lab Structure
 
+
+
 Step 0	Active Directory Foundation	✅ Already completed – DC, OUs, users, security groups(Check my last Lab this step should be completed prior to moving forward!) GOTO LINE 16
 
 Step 1	Windows 11 Domain Join	Join Windows 11 Pro to your domain with proper DNS configuration
