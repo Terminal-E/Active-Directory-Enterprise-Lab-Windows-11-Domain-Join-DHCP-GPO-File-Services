@@ -81,7 +81,7 @@ Click the Change button.
 
 
 
-1.6 Verify Domain Join
+1.6 
 
 
 
