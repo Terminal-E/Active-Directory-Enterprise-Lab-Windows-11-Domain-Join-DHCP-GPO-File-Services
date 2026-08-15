@@ -47,10 +47,14 @@ Step 1: Join Windows 11 Pro to the Domain
 <img width="1918" height="1022" alt="win11todcdns 1" src="https://github.com/user-attachments/assets/1622fe62-d7e2-4415-a6d3-800dc9d0486d" />
 
  1.2 Test DNS Resolution
+
+ 
  Ping (Hostname)
  <img width="1918" height="1020" alt="dnstestresults 2" src="https://github.com/user-attachments/assets/361974be-0dad-47be-8d56-2fdf728649c1" />
 
 1.3 Join the Domain
+
+
 On your Windows 11 client, press Windows + R.
 
 Type sysdm.cpl and press Enter(easiest way)
